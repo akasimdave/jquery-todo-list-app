@@ -1,2 +1,2 @@
 # jquery-todo-list
-A todo list with html, css, javascript and jquery
+A todo list built with html, css and jquery
